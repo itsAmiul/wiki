@@ -10,5 +10,3 @@
             $this->loadView("error/404", $data);
         }
     }
-
-?>

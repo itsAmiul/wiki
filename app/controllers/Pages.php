@@ -13,6 +13,4 @@
             ];
             $this->loadView('pages/home' , $data);
         }
-
     }
-    ?>
