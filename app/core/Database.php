@@ -6,9 +6,9 @@
         private $dbconnection;
         private static $pdo;
         
-        private const DSN = "mysql:host=localhost;port=3306;dbname=ProjectDb;charset=utf8";
-        private const USERNAME = "UserName";
-        private const PASSWORD = "Password";
+        private const DSN = "mysql:host=localhost;port=3306;dbname=wikis;charset=utf8";
+        private const USERNAME = "root";
+        private const PASSWORD = "root";
 
         public function __construct()
         {
